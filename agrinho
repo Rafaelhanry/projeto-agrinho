@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Urbanidade e Sustentabilidade: Conexões entre o Urbano e o Rural</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header-main">
+    <h1>Urbanidade Urbana</h1>
+    <nav class="menu">
+      <a href="#">Início</a>
+      <a href="#mobilidade">Mobilidade</a>
+      <a href="#sustentabilidade">Sustentabilidade</a>
+      <a href="#interconexao">Rural e Urbano</a> <!-- Novo link para a nova seção -->
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>O que é Urbanidade?</h2>
+      <p>Urbanidade é a convivência harmoniosa no espaço urbano, com respeito mútuo, práticas sustentáveis e o desenvolvimento de uma cidade mais cooperativa. No entanto, é importante entender como essa urbanidade se relaciona com as zonas rurais, que desempenham um papel fundamental na produção de recursos essenciais para a vida urbana.</p>
+      <p>A interconexão entre zonas urbanas e rurais é vital para o desenvolvimento equilibrado e sustentável das duas regiões.</p>
+    </section>
+
+    <div class="gallery">
+      <section id="mobilidade">
+        <h3>Mobilidade e Conexão Rural-Urbana</h3>
+        <img src="images/cidade1.jpg" alt="Rua com ciclovia e pedestres, representando a interligação entre o urbano e o rural">
+        <p>Mobilidade não se limita apenas às áreas urbanas. É fundamental desenvolver uma infraestrutura que conecte as zonas urbanas e rurais, promovendo o transporte público eficiente, a preservação ambiental e o acesso a recursos para quem reside no campo. Ciclovias, rodovias e transporte público integrado são essenciais para essa conexão.</p>
+      </section>
+
+      <section id="sustentabilidade">
+        <h3>Sustentabilidade: Convivência entre Urbano e Rural</h3>
+        <img src="images/cidade2.jpg" alt="Parque urbano com árvores e áreas verdes que conectam o urbano ao rural">
+        <p>As zonas rurais são vitais para a produção de alimentos e recursos naturais, e é essencial que as práticas sustentáveis se estendam de maneira eficaz para as áreas urbanas. O uso de áreas verdes urbanas, a implementação de hortas comunitárias, a coleta seletiva e o consumo responsável refletem a necessidade de uma abordagem que respeite tanto o meio urbano quanto o rural.</p>
+      </section>
+
+      <section id="interconexao" class="interconexao-rural-urbana">
+        <h3>A Interconexão entre Zona Rural e Urbana</h3>
+        <img src="images/cidade3.jpg" alt="Vista aérea de uma cidade com campos rurais ao redor, ilustrando a conexão entre o urbano e o rural">
+        <p>A urbanização crescente e a expansão das cidades trazem uma relação complexa com as zonas rurais. Embora o campo seja o principal fornecedor de recursos naturais e alimentos para as cidades, a urbanização pode gerar impactos no meio rural, como a pressão sobre os recursos naturais e a perda de biodiversidade. Por outro lado, as cidades podem oferecer oportunidades de desenvolvimento, educação e infraestrutura para as populações rurais. O desafio está em promover um desenvolvimento equilibrado e sustentável em ambas as zonas, reconhecendo as necessidades e características de cada uma.</p>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer-main">
+    <p>2025 Seu Nome. Conecte-se: <a href="#">Instagram</a> | <a href="#">LinkedIn</a></p>
+  </footer>
+</body>
+</html>
+
